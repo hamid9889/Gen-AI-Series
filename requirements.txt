@@ -13,6 +13,6 @@ wikipedia
 langchain-text-splitters
 langchain-chroma
 pydantic
-
+langchain-chroma
 
 
